@@ -1,0 +1,64 @@
+h1,
+h2 {
+  text-align: center;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat";
+}
+h1 {
+  font-size: 3em;
+}
+p,
+li,
+a {
+  font-family: "Roboto";
+}
+main {
+  max-width: 1000px;
+  margin: auto;
+  padding: 50px;
+}
+p {
+  font-weight: 700;
+  margin-bottom: 60px;
+  border: 2px solid black;
+  padding: 30px;
+}
+header {
+  background-color: rgb(185, 115, 115);
+  padding: 30px;
+}
+h3 {
+  color: rgb(185, 115, 115);
+}
+.title {
+  font-size: 1.5em;
+  border: 2px solid black;
+  padding: 20px;
+  max-width: fit-content;
+  margin: 100px 0px 20px 0px;
+}
+a {
+  text-decoration: underline;
+  color: black;
+  font-weight: 700;
+  font-size: 1.2em;
+  color: rgb(185, 115, 115);
+}
+a:hover {
+  text-transform: uppercase;
+  text-decoration: none;
+}
+h4 {
+  margin: 50px 0px;
+}
+img {
+  max-width: 300px;
+  margin-top: 20px;
+}
+.name {
+  color: rgb(75, 2, 2);
+}
